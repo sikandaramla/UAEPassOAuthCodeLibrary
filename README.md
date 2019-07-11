@@ -54,7 +54,7 @@ Fianlly, initialize and configure Authentication options using following code.
 
             app.UseUAEPassAuthentication(options);
 ```
-Create global variables to hole user details
+Create global variables to hold user details
 ```csharp
 public static class MyGlobalVariables
     {
@@ -62,5 +62,5 @@ public static class MyGlobalVariables
         public static string RawResponse;
     }
 ```
-
+For other details, you can follow sample project or write to me at sikandar.amla@gmail.com
 
