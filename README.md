@@ -62,7 +62,7 @@ public static class MyGlobalVariables
         public static string RawResponse;
     }
 ```
-For other details, you can follow sample project or write to me at sikandar.amla@gmail.com
+For other details, you can follow sample project or write to me at sikandar@subcodevs.com or sikandar.amla@gmail.com
 
 > _**Note for Staging Environment**_ _At the time of this writing, staging is supported only within UAE so if you are outside and need to develop, you either need a VPN with UAE server or a remote computer setup in a UAE office._
 
