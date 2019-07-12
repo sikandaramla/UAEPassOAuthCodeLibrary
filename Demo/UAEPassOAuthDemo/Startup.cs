@@ -65,6 +65,8 @@ namespace UAEPassOAuthDemo
                         MyGlobalVariables.GlobalUser = new UAEPassUser();
                         MyGlobalVariables.GlobalUser = z.UserInfo;
                         MyGlobalVariables.RawResponse = z.RawResponse;
+                        
+                        //NOW DO YOUR SECRET STUFF HERE :D
                     }
                 }
             };
