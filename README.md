@@ -6,6 +6,11 @@ Refer to the [sample project here](https://github.com/sikandaramla/UAEPassOAuthC
 Download [Nuget project here](https://www.nuget.org/packages/UAEPassOAuth/).
 
 ***
+## Supporting the project
+If you use UAEPassOAuth Library, please consider buying me a cup of coffee
+
+<a href='https://ko-fi.com/sikandaramla' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ### Setup
 
 Add the following code to your ConfigureAuth method on the *Startup.cs*
